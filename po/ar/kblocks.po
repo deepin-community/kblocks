@@ -1,0 +1,217 @@
+# translation of kblocks.po to Arabic
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# zayed <zayed.alsaidi@gmail.com>, 2009, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kblocks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-05 00:14+0000\n"
+"PO-Revision-Date: 2021-07-05 23:23+0400\n"
+"Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
+"Language-Team: ar\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Lokalize 21.07.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "إبراهيم علي,زايد السعيدي"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "iali@fcih.net,zayed.alsaidi@gmail.com"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kblocksui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "شريط الأدوات العام"
+
+#: src/KBlocksDisplay.cpp:61
+#, kde-format
+msgid "Score List : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+msgstr "قائمة النقاط : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+
+#: src/KBlocksDisplay.cpp:123
+#, kde-format
+msgid "Score List : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+msgstr "قائمة النقاط : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+
+#: src/KBlocksKeyboardPlayer.cpp:79
+#, kde-format
+msgid "Rotate Piece Clockwise"
+msgstr "قم بتدوير القطعة في اتجاه عقارب الساعة"
+
+#: src/KBlocksKeyboardPlayer.cpp:85
+#, kde-format
+msgid "Rotate Piece Counter Clockwise"
+msgstr "قم بتدوير القطعة عكس اتجاة عقارب الساعة"
+
+#: src/KBlocksKeyboardPlayer.cpp:91
+#, kde-format
+msgid "Move Piece Left"
+msgstr "حرّك القطعة يسارا"
+
+#: src/KBlocksKeyboardPlayer.cpp:97
+#, kde-format
+msgid "Move Piece Right"
+msgstr "حرّك القطعة يمينا"
+
+#: src/KBlocksKeyboardPlayer.cpp:103
+#, kde-format
+msgid "Move Piece Down"
+msgstr "حرّك القطعة للأسفل"
+
+#: src/KBlocksKeyboardPlayer.cpp:109
+#, kde-format
+msgid "Drop the Piece"
+msgstr "اسقط القطعة"
+
+#: src/KBlocksScene.cpp:217
+#, kde-format
+msgid "Game Resumed!"
+msgstr "استأنفت اللعبة!"
+
+#: src/KBlocksScene.cpp:218
+#, kde-format
+msgid "Game Paused!"
+msgstr "اللعبة ألبثت!"
+
+#: src/KBlocksScene.cpp:270
+#, kde-format
+msgid "Game Start!"
+msgstr "بدأت اللعبة!"
+
+#: src/KBlocksScene.cpp:276
+#, kde-format
+msgid "Game Over!"
+msgstr "انتهت اللعبة!"
+
+#: src/KBlocksScene.cpp:282
+#, kde-format
+msgid "You Win!"
+msgstr "لقد فزت!"
+
+#: src/KBlocksScene.cpp:288
+#, kde-format
+msgid "You Lose!"
+msgstr "لقد خسرت!"
+
+#: src/KBlocksWin.cpp:140 src/KBlocksWin.cpp:240
+#, kde-format
+msgid "Points: %1 - Lines: %2 - Level: %3"
+msgstr "النقاط: %1 - السطور: %2 - المستوى:%3"
+
+#: src/KBlocksWin.cpp:230
+#, kde-format
+msgid "Theme"
+msgstr "السمة"
+
+#: src/KBlocksWin.cpp:281
+#, kde-format
+msgid "Single Game"
+msgstr "لعبة مفردة"
+
+#: src/KBlocksWin.cpp:285
+#, kde-format
+msgid "Human vs AI"
+msgstr "الإنسان مقابل الآلة"
+
+#: src/KBlocksWin.cpp:301
+#, kde-format
+msgid "&Play Sounds"
+msgstr "شغّل الأ&صوات"
+
+#: src/KBlocksWin.cpp:308
+#, kde-format
+msgid "Points: 0 - Lines: 0 - Level: 0"
+msgstr "النقاط: 0 - السطور: 0 - المستوى: 0"
+
+#: src/main.cpp:353
+#, kde-format
+msgid "KBlocks"
+msgstr "الكتل ك"
+
+#: src/main.cpp:355
+#, kde-format
+msgid "A falling blocks game by KDE"
+msgstr "لعبة الكتل المتساقطة لكدي"
+
+#: src/main.cpp:357
+#, kde-format
+msgid "(c) 2007, Mauricio Piacentini"
+msgstr "حقوق النسح 2007، Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Author"
+msgstr "المؤلف"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Dirk Leifeld"
+msgstr "Dirk Leifeld"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Developer"
+msgstr "المطور"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "Zhongjie Cai"
+msgstr "Zhongjie Cai"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "New design of KBlocks for AI and tetris research platform"
+msgstr "تصميم جديد لـ KBlocks لمنصة أبحاث AI و tetris"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Oxygen art for KDE4"
+msgstr "رسوميات أوكسجين لكدي4"
+
+#: src/main.cpp:368
+#, kde-format
+msgid ""
+"Setup kblocks game running mode.\n"
+"\t0 = Desktop Mode\t1 = Game Engine Mode\n"
+"\t2 = Gui Mode\t3 = Player Mode"
+msgstr ""
+"تهيئة نمط تشغيل لعبة الكتل ك.\n"
+"\t0 = نمط سطح المكتب\t1 = وضع محرك اللعبة\n"
+"\t2 = نمط رسومي\t3 = وضع اللاعب"
+
+#: src/main.cpp:369
+#, kde-format
+msgid ""
+"Setup the configuration file for tetris researcher mode. Not for desktop "
+"users."
+msgstr "قم بإعداد ملف التكوين لوضع باحث تتريس. ليس لمستخدمي سطح المكتب."
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "السمة الرسومية المستخدمة."
+
+#~ msgid "Whether sound effects should be played."
+#~ msgstr "التحكم في إمكانية تشغيل المؤثرات الصوتية"
+
+#~ msgid "The difficulty level."
+#~ msgstr "مستوى الصعوبة."

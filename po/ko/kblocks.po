@@ -1,0 +1,213 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Shinjo Park <kde@peremen.name>, 2014, 2015, 2019, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-05 00:14+0000\n"
+"PO-Revision-Date: 2021-06-06 15:36+0200\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "박신조"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde@peremen.name"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kblocksui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "주 도구 모음"
+
+#: src/KBlocksDisplay.cpp:61
+#, kde-format
+msgid "Score List : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+msgstr "점수 목록: 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+
+#: src/KBlocksDisplay.cpp:123
+#, kde-format
+msgid "Score List : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+msgstr "점수 목록: %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+
+#: src/KBlocksKeyboardPlayer.cpp:79
+#, kde-format
+msgid "Rotate Piece Clockwise"
+msgstr "시계 방향으로 회전하기"
+
+#: src/KBlocksKeyboardPlayer.cpp:85
+#, kde-format
+msgid "Rotate Piece Counter Clockwise"
+msgstr "반시계 방향으로 회전하기"
+
+#: src/KBlocksKeyboardPlayer.cpp:91
+#, kde-format
+msgid "Move Piece Left"
+msgstr "왼쪽으로 이동"
+
+#: src/KBlocksKeyboardPlayer.cpp:97
+#, kde-format
+msgid "Move Piece Right"
+msgstr "오른쪽으로 이동"
+
+#: src/KBlocksKeyboardPlayer.cpp:103
+#, kde-format
+msgid "Move Piece Down"
+msgstr "아래로 이동"
+
+#: src/KBlocksKeyboardPlayer.cpp:109
+#, kde-format
+msgid "Drop the Piece"
+msgstr "떨어트리기"
+
+#: src/KBlocksScene.cpp:217
+#, kde-format
+msgid "Game Resumed!"
+msgstr "게임이 다시 시작되었습니다!"
+
+#: src/KBlocksScene.cpp:218
+#, kde-format
+msgid "Game Paused!"
+msgstr "게임이 일시 정지되었습니다!"
+
+#: src/KBlocksScene.cpp:270
+#, kde-format
+msgid "Game Start!"
+msgstr "게임이 시작되었습니다!"
+
+#: src/KBlocksScene.cpp:276
+#, kde-format
+msgid "Game Over!"
+msgstr "게임이 끝났습니다!"
+
+#: src/KBlocksScene.cpp:282
+#, kde-format
+msgid "You Win!"
+msgstr "이겼습니다!"
+
+#: src/KBlocksScene.cpp:288
+#, kde-format
+msgid "You Lose!"
+msgstr "졌습니다!"
+
+#: src/KBlocksWin.cpp:140 src/KBlocksWin.cpp:240
+#, kde-format
+msgid "Points: %1 - Lines: %2 - Level: %3"
+msgstr "점수: %1 - 줄: %2 - 단계: %3"
+
+#: src/KBlocksWin.cpp:230
+#, kde-format
+msgid "Theme"
+msgstr "테마"
+
+#: src/KBlocksWin.cpp:281
+#, kde-format
+msgid "Single Game"
+msgstr "혼자 하기"
+
+#: src/KBlocksWin.cpp:285
+#, kde-format
+msgid "Human vs AI"
+msgstr "사용자 대 AI"
+
+#: src/KBlocksWin.cpp:301
+#, kde-format
+msgid "&Play Sounds"
+msgstr "소리 재생(&P)"
+
+#: src/KBlocksWin.cpp:308
+#, kde-format
+msgid "Points: 0 - Lines: 0 - Level: 0"
+msgstr "점수: 0 - 줄: 0 - 단계: 0"
+
+#: src/main.cpp:353
+#, kde-format
+msgid "KBlocks"
+msgstr "KBlocks"
+
+#: src/main.cpp:355
+#, kde-format
+msgid "A falling blocks game by KDE"
+msgstr "KDE의 떨어지는 블록 게임"
+
+#: src/main.cpp:357
+#, kde-format
+msgid "(c) 2007, Mauricio Piacentini"
+msgstr "(c) 2007, Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Author"
+msgstr "작성자"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Dirk Leifeld"
+msgstr "Dirk Leifeld"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Developer"
+msgstr "개발자"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "Zhongjie Cai"
+msgstr "Zhongjie Cai"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "New design of KBlocks for AI and tetris research platform"
+msgstr "새로운 KBlocks AI 설계 및 테트리스 연구 플랫폼"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Oxygen art for KDE4"
+msgstr "Oxygen 그래픽"
+
+#: src/main.cpp:368
+#, kde-format
+msgid ""
+"Setup kblocks game running mode.\n"
+"\t0 = Desktop Mode\t1 = Game Engine Mode\n"
+"\t2 = Gui Mode\t3 = Player Mode"
+msgstr ""
+"KBlocks 게임 모드 설정입니다.\n"
+"\t0 = 데스크톱 모드\t1 = 게임 엔진 모드\n"
+"\t2 = GUI 모드\t3 = 플레이어 모드"
+
+#: src/main.cpp:369
+#, kde-format
+msgid ""
+"Setup the configuration file for tetris researcher mode. Not for desktop "
+"users."
+msgstr "테트리스 연구 모드 설정 파일입니다. 전문가 전용입니다."
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "사용할 그래픽 테마입니다."
+
+#~ msgid "Whether sound effects should be played."
+#~ msgstr "소리 재생 여부입니다."

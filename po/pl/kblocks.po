@@ -1,0 +1,223 @@
+# translation of kblocks.po to polski
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Maciej Wikło <maciej.wiklo@wp.pl>, 2008, 2009.
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2011, 2014, 2015, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kblocks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-05 00:14+0000\n"
+"PO-Revision-Date: 2021-06-06 06:47+0200\n"
+"Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Maciej Wikło, Łukasz Wojniłowicz"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "maciej.wiklo@wp.pl, lukasz.wojnilowicz@gmail.com"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kblocksui.rc:24
+#, kde-format
+msgid "Main Toolbar"
+msgstr "Główny pasek narzędzi"
+
+#: src/KBlocksDisplay.cpp:61
+#, kde-format
+msgid "Score List : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+msgstr "Lista wyników : 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0"
+
+#: src/KBlocksDisplay.cpp:123
+#, kde-format
+msgid "Score List : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+msgstr "Lista wyników : %1 - %2 - %3 - %4 - %5 - %6 - %7 - %8"
+
+#: src/KBlocksKeyboardPlayer.cpp:79
+#, kde-format
+msgid "Rotate Piece Clockwise"
+msgstr "Obróć element w prawo"
+
+#: src/KBlocksKeyboardPlayer.cpp:85
+#, kde-format
+msgid "Rotate Piece Counter Clockwise"
+msgstr "Obróć element w lewo"
+
+#: src/KBlocksKeyboardPlayer.cpp:91
+#, kde-format
+msgid "Move Piece Left"
+msgstr "Przenieś element w lewo"
+
+#: src/KBlocksKeyboardPlayer.cpp:97
+#, kde-format
+msgid "Move Piece Right"
+msgstr "Przenieś element w prawo"
+
+#: src/KBlocksKeyboardPlayer.cpp:103
+#, kde-format
+msgid "Move Piece Down"
+msgstr "Przenieś element w dół"
+
+#: src/KBlocksKeyboardPlayer.cpp:109
+#, kde-format
+msgid "Drop the Piece"
+msgstr "Upuść kawałek"
+
+#: src/KBlocksScene.cpp:217
+#, kde-format
+msgid "Game Resumed!"
+msgstr "Gra wznowiona!"
+
+#: src/KBlocksScene.cpp:218
+#, kde-format
+msgid "Game Paused!"
+msgstr "Gra wstrzymana!"
+
+#: src/KBlocksScene.cpp:270
+#, kde-format
+msgid "Game Start!"
+msgstr "Gra rozpoczęta!"
+
+#: src/KBlocksScene.cpp:276
+#, kde-format
+msgid "Game Over!"
+msgstr "Koniec gry!"
+
+#: src/KBlocksScene.cpp:282
+#, kde-format
+msgid "You Win!"
+msgstr "Wygrana!"
+
+#: src/KBlocksScene.cpp:288
+#, kde-format
+msgid "You Lose!"
+msgstr "Przegrana!"
+
+#: src/KBlocksWin.cpp:140 src/KBlocksWin.cpp:240
+#, kde-format
+msgid "Points: %1 - Lines: %2 - Level: %3"
+msgstr "Punkty: %1 - Linie: %2 - Runda: %3"
+
+#: src/KBlocksWin.cpp:230
+#, kde-format
+msgid "Theme"
+msgstr "Wystrój"
+
+#: src/KBlocksWin.cpp:281
+#, kde-format
+msgid "Single Game"
+msgstr "Pojedyncza gra"
+
+#: src/KBlocksWin.cpp:285
+#, kde-format
+msgid "Human vs AI"
+msgstr "Człowiek przeciwko Komputer"
+
+#: src/KBlocksWin.cpp:301
+#, kde-format
+msgid "&Play Sounds"
+msgstr "&Odtwarzaj dźwięki"
+
+#: src/KBlocksWin.cpp:308
+#, kde-format
+msgid "Points: 0 - Lines: 0 - Level: 0"
+msgstr "Punkty: 0 - Linie: 0 - Runda: 0"
+
+#: src/main.cpp:353
+#, kde-format
+msgid "KBlocks"
+msgstr "KBloki"
+
+#: src/main.cpp:355
+#, kde-format
+msgid "A falling blocks game by KDE"
+msgstr "Gra ze spadającymi elementami w ramach KDE"
+
+#: src/main.cpp:357
+#, kde-format
+msgid "(c) 2007, Mauricio Piacentini"
+msgstr "(c) 2007, Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+#: src/main.cpp:358
+#, kde-format
+msgid "Author"
+msgstr "Autor"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Dirk Leifeld"
+msgstr "Dirk Leifeld"
+
+#: src/main.cpp:359
+#, kde-format
+msgid "Developer"
+msgstr "Programista"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "Zhongjie Cai"
+msgstr "Zhongjie Cai"
+
+#: src/main.cpp:360
+#, kde-format
+msgid "New design of KBlocks for AI and tetris research platform"
+msgstr ""
+"Nowy projekt KBloków dla sztucznej inteligencji i platforma badawcza dla "
+"tetrisa"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Johann Ollivier Lapeyre"
+msgstr "Johann Ollivier Lapeyre"
+
+#: src/main.cpp:361
+#, kde-format
+msgid "Oxygen art for KDE4"
+msgstr "Oprawa graficzna Tlenu dla KDE4"
+
+#: src/main.cpp:368
+#, kde-format
+msgid ""
+"Setup kblocks game running mode.\n"
+"\t0 = Desktop Mode\t1 = Game Engine Mode\n"
+"\t2 = Gui Mode\t3 = Player Mode"
+msgstr ""
+"Ustaw tryb uruchamiania gry kbloki.\n"
+"\t0 = Tryb biurkowy\t1 = Tryb silnika gry\n"
+"\t2 = Tryb Gui\t3 = Tryb gracza"
+
+#: src/main.cpp:369
+#, kde-format
+msgid ""
+"Setup the configuration file for tetris researcher mode. Not for desktop "
+"users."
+msgstr ""
+"Ustaw plik konfiguracyjny dla trybu badacza tetrisa. Nie dla użytkowników "
+"biurkowych."
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "Używany wystrój graficzny."
+
+#~ msgid "Whether sound effects should be played."
+#~ msgstr "Odtwarzanie efektów dźwiękowych."
+
+#~ msgid "The difficulty level."
+#~ msgstr "Poziom trudności."
